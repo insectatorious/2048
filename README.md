@@ -1,31 +1,30 @@
-# 2048
-A small clone of [1024](https://play.google.com/store/apps/details?id=com.veewo.a1024), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
+# Tickets!
+A small clone of [2048](http://gabrielecirulli.github.io/2048/).
 
-Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
+Original version: [Play it here!](http://gabrielecirulli.github.io/2048/) Special thanks to him for making this excellent game available!
 
-### Contributions
+The objective is to get at least one ticket to the 'Resolved' state. Tickets progress linearly along the following stages:
 
- - [TimPetricola](https://github.com/TimPetricola) added best score storage
- - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobile
- - [elektryk](https://github.com/elektryk) made swipes work on Windows Phone
+1. New
+1. Research
+1. Chase 3rd Party
+1. Business Review
+1. Implementation
+1. Code Review
+1. QA
+1. Deployment
+1. Prod Follow-up
+1. Resolved
 
-Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
-
-### Screenshot
-
-<p align="center">
-  <img src="http://pictures.gabrielecirulli.com/2048-20140309-234100.png" alt="Screenshot"/>
-</p>
-
-That screenshot is fake, by the way. I never reached 2048 :smile:
+Note: Under the hood this is still the same game (2048), a small text tweak has been made to display the different ticket stages.
 
 ## Contributing
 Changes and improvements are more than welcome! Feel free to fork and open a pull request. Please make your changes in a specific branch and request to pull into `master`! If you can, please make sure the game fully works before sending the PR, as that will help speed up the process.
 
-You can find the same information in the [contributing guide.](https://github.com/gabrielecirulli/2048/blob/master/CONTRIBUTING.md)
+You can find the same information in the [contributing guide.](https://github.com/insectatorious/2048/blob/master/CONTRIBUTING.md)
 
 ## License
-2048 is licensed under the [MIT license.](https://github.com/gabrielecirulli/2048/blob/master/LICENSE.txt)
+Tickets is licensed under the [MIT license.](https://github.com/insectatorious/2048/blob/master/LICENSE.txt)
 
 ## Donations
-I made this in my spare time, and it's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: `1Ec6onfsQmoP9kkL3zkpB6c5sA4PVcXU2i`. Thank you very much!
+I made this in my spare time, trying to avoid looking at my very long ticket list! It's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: ``. Thank you very much!
