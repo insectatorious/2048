@@ -28,4 +28,4 @@ You can find the same information in the [contributing guide.](https://github.co
 Tickets is licensed under the [MIT license.](https://github.com/insectatorious/2048/blob/master/LICENSE.txt)
 
 ## Donations
-I made this in my spare time, trying to avoid looking at my very long ticket list! It's hosted on GitHub (which means I don't have any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: ``. Thank you very much!
+I made this in my spare time. It's hosted on GitHub (which means there aren't any hosting costs), but if you enjoyed the game and feel like buying me coffee, you can donate at my BTC address: `19tHC9fgYpVnQYYxdA9C7s2PrhJaC3wDFU`. Thank you very much!
