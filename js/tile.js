@@ -1,8 +1,8 @@
 devStages = {
   2:  "New",
   4:  "Research",
-  8:  "Buss. Rev.",
-  16: "3rd Party",
+  8:  "Chase 3rd Party",
+  16: "Business Review",
   32: "Implementation",
   64: "Code Review",
   128: "QA",
@@ -36,7 +36,7 @@ Tile.prototype.serialize = function () {
       x: this.x,
       y: this.y
     },
-    value: this.value
+    value: this.value,
     text:  this.text
   };
 };
