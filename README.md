@@ -12,6 +12,7 @@ The objective is to get at least one ticket to the 'Resolved' state. Tickets pro
 1. Implementation
 1. Code Review
 1. QA
+1. Regression
 1. Deployment
 1. Prod Follow-up
 1. Resolved

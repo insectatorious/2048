@@ -6,6 +6,7 @@ devStages = {
   32: "Implementation",
   64: "Code Review",
   128: "QA",
+  256: "Regression",
   512: "Deployment",
   1024: "Prod Follow-up",
   2048: "Resolved"
