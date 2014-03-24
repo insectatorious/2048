@@ -1,7 +1,10 @@
 # Tickets!
+
+[Play it here!](http://insectatorious.github.io/2048/)
+
 A small clone of [2048](http://gabrielecirulli.github.io/2048/).
 
-Original version: [Play it here!](http://gabrielecirulli.github.io/2048/) Special thanks to him for making this excellent game available!
+Original version: http://gabrielecirulli.github.io/2048/ Special thanks to him for making this excellent game available!
 
 The objective is to get at least one ticket to the 'Resolved' state. Tickets progress linearly along the following stages:
 
